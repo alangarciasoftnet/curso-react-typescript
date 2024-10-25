@@ -9,7 +9,6 @@ type Props = {
 
 //LA VERSION RECOMENDENDADA
 export const RandomFox2 = ({image,alt} : Props) : JSX.Element => {
-    
     return <img className="rounded" alt={alt} src={image} width={320} height='auto'/>
 }
 

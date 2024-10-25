@@ -38,3 +38,6 @@ const [images, setImages] = useState<Array<ImageItem>>([
     ...
   ]);
 ```
+
+## Tipos para eventos y callbacks de escuchadores
+
